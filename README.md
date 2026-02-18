@@ -23,7 +23,7 @@ Known → Display Normally
 Unknown → Apply Gaussian Blur
 
 🔍 Detection & Recognition Models
-Component	Method	Description
+Component	    Method    	Description
 Face Detection	Haar Cascade	Classical OpenCV-based detector
 Face Detection	MTCNN	Deep learning-based multi-task CNN detector
 Face Recognition	Dlib	128-d embedding generation
